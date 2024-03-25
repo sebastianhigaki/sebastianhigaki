@@ -1,1 +1,3 @@
 # Hello! I'm Sebastian Higaki! Full Stack Developer
+## About me
+Hey there! I'm Sebastian Higaki, a 24-year-old from Lima, Santiago de Surco, with a zest for life and a love for music, sports, and coding. As I dive into the exciting world of programming, I'm fueled by curiosity and a passion for learning. Join me on this journey of discovery as I embrace new challenges and explore the endless possibilities of technology!
