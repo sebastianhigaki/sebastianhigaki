@@ -5,3 +5,7 @@ Hey there! I'm Sebastian Higaki, a 24-year-old from Lima, Santiago de Surco, wit
 Hey there! If you're passionate about music, sports, or coding like I am, I'd love to connect! Whether you want to jam out to some tunes, chat about the latest sports events, or discuss coding projects and tips, feel free to reach out.
 
 You can find me in Lima, Santiago de Surco, or drop me a message at shr_sebas02@hotmail.com. Let's share ideas, collaborate on projects, or simply have a good conversation. Looking forward to hearing from you!
+## Languages
+- English: Fluent in both spoken and written English, with a strong command of the language acquired through formal education and practical experience.
+
+- Spanish: Native proficiency in Spanish, with a deep understanding of the language and its cultural nuances.
